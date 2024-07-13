@@ -79,5 +79,48 @@ public class TC_MyAccountPageTest extends BaseClass{
 			Assert.assertTrue(false);
 		}
 	}
+	@Test
+	public void VerifySignOut() throws IOException 
+	{
+
+		logger.info("***************TestCase Verify Sign out starts*****************"); 
+
+		indexPage pg = new indexPage(driver);
+
+		pg.clickOnSignIn();
+		logger.info("Clicked on sign in link");
+
+		myAccount myaccpage = new myAccount(driver);
+
+		myaccpage.enterEmail("hellotest123@gmail.com");
+		logger.info("Enter Email Address");
+		
+		myaccpage.enterPassword("Test123");
+		logger.info("Enter password");
+
+		myaccpage.clickSubmit();
+		logger.info("Clicked on sign in link..");
+
+
+		registeredUserAccount regUser = new registeredUserAccount(driver);
+		regUser.clickonsignout();
+
+		if(pg.getPageTitle().equals("Login - My Shop"))
+		{
+			logger.info("VerifySignOut - Passed");
+			Assert.assertTrue(true);
+		}
+
+		else
+		{
+			logger.info("VerifySignOut - Failed");
+			captureScreenShot(driver,"VerifySignOut");
+			Assert.assertTrue(false);
+		}
+
+	
+		logger.info("***************TestCase Verify Sign out ends*****************"); 
+
+	}
 }
-;
+

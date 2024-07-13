@@ -373,3 +373,105 @@
 [INFO ] 2024-07-13 14:21:15.091 [main] MyStore - Clicked on sign in button
 [INFO ] 2024-07-13 14:21:15.114 [main] MyStore - Verify Login - Passed
 [INFO ] 2024-07-13 14:21:16.789 [main] MyStore - Clicked on signout in button
+[INFO ] 2024-07-13 16:21:34.030 [main] MyStore - url opened
+[INFO ] 2024-07-13 16:21:34.053 [main] MyStore - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-07-13 16:21:35.781 [main] MyStore - Clicked on sign in link
+[INFO ] 2024-07-13 16:21:35.894 [main] MyStore - Enter Email Address
+[INFO ] 2024-07-13 16:21:35.962 [main] MyStore - Enter password
+[INFO ] 2024-07-13 16:21:37.920 [main] MyStore - Clicked on sign in link..
+[INFO ] 2024-07-13 16:21:39.594 [main] MyStore - VerifySignOut - Failed
+[INFO ] 2024-07-13 16:21:39.745 [main] MyStore - Verify Login test execution started...
+[INFO ] 2024-07-13 16:21:40.818 [main] MyStore - Clicked on sign in link
+[INFO ] 2024-07-13 16:21:40.904 [main] MyStore - Enter Email Address
+[INFO ] 2024-07-13 16:21:40.963 [main] MyStore - Enter password
+[INFO ] 2024-07-13 16:21:42.052 [main] MyStore - Clicked on sign in button
+[INFO ] 2024-07-13 16:21:42.080 [main] MyStore - Verify Login - Passed
+[INFO ] 2024-07-13 16:23:31.617 [main] MyStore - url opened
+[INFO ] 2024-07-13 16:23:31.636 [main] MyStore - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-07-13 16:23:33.468 [main] MyStore - Clicked on sign in link
+[INFO ] 2024-07-13 16:23:33.578 [main] MyStore - Enter Email Address
+[INFO ] 2024-07-13 16:23:33.647 [main] MyStore - Enter password
+[INFO ] 2024-07-13 16:23:35.637 [main] MyStore - Clicked on sign in link..
+[INFO ] 2024-07-13 16:23:37.363 [main] MyStore - VerifySignOut - Passed
+[INFO ] 2024-07-13 16:23:37.365 [main] MyStore - ***************TestCase Verify Sign out ends*****************
+[INFO ] 2024-07-13 16:23:37.368 [main] MyStore - Verify Login test execution started...
+[INFO ] 2024-07-13 16:23:38.510 [main] MyStore - Clicked on sign in link
+[INFO ] 2024-07-13 16:23:38.603 [main] MyStore - Enter Email Address
+[INFO ] 2024-07-13 16:23:38.666 [main] MyStore - Enter password
+[INFO ] 2024-07-13 16:23:39.873 [main] MyStore - Clicked on sign in button
+[INFO ] 2024-07-13 16:23:39.900 [main] MyStore - Verify Login - Passed
+[INFO ] 2024-07-13 16:26:48.535 [main] MyStore - url opened
+[INFO ] 2024-07-13 16:27:29.826 [main] MyStore - url opened
+[INFO ] 2024-07-13 16:27:30.795 [main] MyStore - Verify Login test execution started...
+[INFO ] 2024-07-13 16:27:32.511 [main] MyStore - Clicked on sign in link
+[INFO ] 2024-07-13 16:27:32.621 [main] MyStore - Enter Email Address
+[INFO ] 2024-07-13 16:27:32.698 [main] MyStore - Enter password
+[INFO ] 2024-07-13 16:27:34.640 [main] MyStore - Clicked on sign in button
+[INFO ] 2024-07-13 16:27:34.667 [main] MyStore - Verify Login - Passed
+[INFO ] 2024-07-13 16:27:36.319 [main] MyStore - Clicked on signout in button
+[INFO ] 2024-07-13 16:27:36.322 [main] MyStore - Verify Login test execution started...
+[INFO ] 2024-07-13 16:27:37.426 [main] MyStore - Clicked on sign in link
+[INFO ] 2024-07-13 16:27:37.526 [main] MyStore - Enter Email Address
+[INFO ] 2024-07-13 16:27:37.587 [main] MyStore - Enter password
+[INFO ] 2024-07-13 16:27:38.688 [main] MyStore - Clicked on sign in button
+[INFO ] 2024-07-13 16:27:38.709 [main] MyStore - Verify Login - Passed
+[INFO ] 2024-07-13 16:27:40.395 [main] MyStore - Clicked on signout in button
+[INFO ] 2024-07-13 16:27:51.144 [main] MyStore - url opened
+[INFO ] 2024-07-13 16:27:51.146 [main] MyStore - ***************TestCase Verify Sign out starts*****************
+[INFO ] 2024-07-13 16:27:52.763 [main] MyStore - Clicked on sign in link
+[INFO ] 2024-07-13 16:27:52.873 [main] MyStore - Enter Email Address
+[INFO ] 2024-07-13 16:27:52.944 [main] MyStore - Enter password
+[INFO ] 2024-07-13 16:27:54.869 [main] MyStore - Clicked on sign in link..
+[INFO ] 2024-07-13 16:27:56.523 [main] MyStore - VerifySignOut - Passed
+[INFO ] 2024-07-13 16:27:56.524 [main] MyStore - ***************TestCase Verify Sign out ends*****************
+[INFO ] 2024-07-13 16:27:56.525 [main] MyStore - Verify Login test execution started...
+[INFO ] 2024-07-13 16:27:57.631 [main] MyStore - Clicked on sign in link
+[INFO ] 2024-07-13 16:27:57.718 [main] MyStore - Enter Email Address
+[INFO ] 2024-07-13 16:27:57.774 [main] MyStore - Enter password
+[INFO ] 2024-07-13 16:27:58.894 [main] MyStore - Clicked on sign in button
+[INFO ] 2024-07-13 16:27:58.919 [main] MyStore - Verify Login - Passed
+[INFO ] 2024-07-13 16:28:09.669 [main] MyStore - url opened
+[INFO ] 2024-07-13 16:28:09.671 [main] MyStore - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-07-13 16:28:11.428 [main] MyStore - Enter Email Address
+[INFO ] 2024-07-13 16:28:11.495 [main] MyStore - Enter password
+[INFO ] 2024-07-13 16:28:13.510 [main] MyStore - Clicked on sign in button
+[INFO ] 2024-07-13 16:28:15.792 [main] MyStore - Search Product testcase - Passed
+[INFO ] 2024-07-13 16:28:17.253 [main] MyStore - ***************TestCase Search Product ends*****************
+[INFO ] 2024-07-13 16:28:17.255 [main] MyStore - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-07-13 16:28:18.470 [main] MyStore - Enter Email Address
+[INFO ] 2024-07-13 16:28:18.533 [main] MyStore - Enter password
+[INFO ] 2024-07-13 16:28:19.637 [main] MyStore - Clicked on sign in button
+[INFO ] 2024-07-13 16:28:19.687 [main] MyStore - Dress entered in search box
+[INFO ] 2024-07-13 16:28:20.625 [main] MyStore - clicked on search button
+[INFO ] 2024-07-13 16:28:22.878 [main] MyStore - Clicked on more button
+[INFO ] 2024-07-13 16:28:27.024 [main] MyStore - size L entered
+[INFO ] 2024-07-13 16:28:27.070 [main] MyStore - Clicked on add to cart
+[INFO ] 2024-07-13 16:28:29.688 [main] MyStore - Clicked on proceed to checkout on product page
+[INFO ] 2024-07-13 16:28:31.375 [main] MyStore - Clicked on proceed to checkout on order summary page
+[INFO ] 2024-07-13 16:28:32.757 [main] MyStore - Clicked on proceed to checkout on order address page
+[INFO ] 2024-07-13 16:28:32.803 [main] MyStore - selecged term of service check box
+[INFO ] 2024-07-13 16:28:34.249 [main] MyStore - Clicked on proceed to checkout on order shipping page
+[INFO ] 2024-07-13 16:28:34.264 [main] MyStore - http://www.automationpractice.pl/index.php?controller=order
+[INFO ] 2024-07-13 16:28:35.067 [main] MyStore - Clicked on pay by cheque
+[INFO ] 2024-07-13 16:28:36.393 [main] MyStore - Clicked on confirmed order
+[INFO ] 2024-07-13 16:28:36.414 [main] MyStore - VerifyBuyProduct - Passed
+[INFO ] 2024-07-13 16:28:38.660 [main] MyStore - ***************TestCase BuyProduct ends*****************
+[INFO ] 2024-07-13 16:28:49.363 [main] MyStore - url opened
+[INFO ] 2024-07-13 16:28:51.353 [main] MyStore - Select on Customer service
+[INFO ] 2024-07-13 16:28:51.441 [main] MyStore - Enter Email Address
+[INFO ] 2024-07-13 16:28:51.511 [main] MyStore - Enter on Order Reference
+[INFO ] 2024-07-13 16:28:51.582 [main] MyStore - Enter message
+[INFO ] 2024-07-13 16:28:52.677 [main] MyStore - Clicked on send button
+[INFO ] 2024-07-13 16:28:52.704 [main] MyStore - VerifyBuyProduct - Passed
+[INFO ] 2024-07-13 16:28:54.484 [main] MyStore - Clicked on sign in link
+[INFO ] 2024-07-13 16:28:54.567 [main] MyStore - Enter Email Address
+[INFO ] 2024-07-13 16:28:54.627 [main] MyStore - Enter password
+[INFO ] 2024-07-13 16:28:56.411 [main] MyStore - Clicked on sign in button
+[INFO ] 2024-07-13 16:28:57.428 [main] MyStore - Select on Customer service
+[INFO ] 2024-07-13 16:28:57.503 [main] MyStore - Select on Order Reference
+[INFO ] 2024-07-13 16:28:57.583 [main] MyStore - Select on product
+[INFO ] 2024-07-13 16:28:57.651 [main] MyStore - Enter message
+[INFO ] 2024-07-13 16:28:58.351 [main] MyStore - Clicked on send button
+[INFO ] 2024-07-13 16:28:58.374 [main] MyStore - VerifyBuyProduct - Passed

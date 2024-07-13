@@ -91,5 +91,8 @@ public class indexPage {
 	{
 		contactus.click();
 	}
-
+	public String getPageTitle()
+	{
+		return(driver.getTitle());
+	}
 }

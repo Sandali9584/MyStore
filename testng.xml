@@ -7,7 +7,11 @@
   <test name="Test">
     <classes>
       <class name="com.mystore.testcases.BaseClass"/>
+      <class name="com.mystore.testcases.TC_HomePageTest"/>
       <class name="com.mystore.testcases.TC_MyAccountPageTestDataDriven"/>
+      <class name="com.mystore.testcases.TC_MyAccountPageTest"/>
+      <class name="com.mystore.testcases.TC_ProductPageTest"/>
+      <class name="com.mystore.testcases.TC_ContactUsTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

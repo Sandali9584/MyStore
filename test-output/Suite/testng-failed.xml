@@ -6,13 +6,15 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.mystore.testcases.TC_MyAccountPageTestDataDriven">
+      <class name="com.mystore.testcases.TC_HomePageTest">
         <methods>
-          <include name="verifyLogin" invocation-numbers="0 1"/>
           <include name="tearDown"/>
+          <include name="VerifyBlogTab"/>
           <include name="setup"/>
+          <include name="VerifydressTab"/>
+          <include name="VerifyTShirtTab"/>
         </methods>
-      </class> <!-- com.mystore.testcases.TC_MyAccountPageTestDataDriven -->
+      </class> <!-- com.mystore.testcases.TC_HomePageTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

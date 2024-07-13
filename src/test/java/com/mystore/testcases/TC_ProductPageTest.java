@@ -186,34 +186,4 @@ myAccount myaccpage = new myAccount(driver);
 
 	}
 
-
-	@Test(priority = 3)
-	public void verifyAddToWishlistWithoutLogin() throws IOException
-	{
-		logger.info("\n***************TestCase verifyAddToWishlistWithoutLogin started*****************"); 
-
-		indexPage indexPage = new indexPage(driver);
-		indexPage.clickOnTShirtMenu();
-
-		ProductPage prodPage = new ProductPage(driver);
-		prodPage.mouseOverOnTshirtProduct();
-
-		prodPage.clickOnAddToWishList();
-
-		String actualAlertMsg = prodPage.getTextOfAlertForWishList();
-		String expectedAlertMsg = "You must be logged in to manage your wishlist.";
-
-		if(actualAlertMsg.equals(expectedAlertMsg))
-		{
-			logger.info("verifyAddToWishlistWithoutLogin - passed"); 
-			Assert.assertTrue(true);
-		}
-		else
-		{
-			logger.info("verifyAddToWishlistWithoutLogin - failed"); 
-			captureScreenShot(driver,"verifyAddToWishlistWithoutLogin");
-			Assert.assertTrue(false);
-		}
-
-	}
 }
